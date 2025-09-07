@@ -1,0 +1,3 @@
+# Placeholder for images
+This file serves as a placeholder for the original placeholder.png file.
+The original placeholder.png file should be uploaded separately as it's a binary file.
